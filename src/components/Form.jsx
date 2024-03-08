@@ -78,7 +78,7 @@ const Form = () => {
   };
 
   
-  const scriptURL = 'https://159.65.150.151/add';
+  const scriptURL = 'https://send.pageclip.co/sNdsKlmahrtSPx7zRu7Oh5ncEoAemYDT/firstform';
   const form = document.forms['registrationForm']
   // let headers = new Headers();
 
